@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterdpdate",
+        "uuid": 3190537,
+        "checksum": "e30mnd"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
